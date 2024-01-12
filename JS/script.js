@@ -1,3 +1,3 @@
 console.log("Hola mundo")
 Consoletanor
-"Que miras papa"
+"Que miras papá"
